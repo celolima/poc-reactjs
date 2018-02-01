@@ -1,0 +1,24 @@
+{
+  "name": "nosql",
+  "version": "1.0.0",
+  "description": "Teste inicial da biblioteca nosql para acesso ao sqlite",
+  "main": "example.js",
+  "dependencies": {
+    "sqlite-sync": "^0.3.6",
+    "mqtt": "^2.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://m_lima@bitbucket.org/m_lima/reactjs_repo.git"
+  },
+  "keywords": [
+    "nosql"
+  ],
+  "author": "m_lima",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/m_lima/reactjs_repo#readme"
+}

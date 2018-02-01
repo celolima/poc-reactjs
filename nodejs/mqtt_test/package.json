@@ -1,0 +1,23 @@
+{
+  "name": "mqtt_test",
+  "version": "1.0.0",
+  "description": "Teste da biblioteca mqtt",
+  "main": "example.js",
+  "dependencies": {
+    "mqtt": "^2.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://m_lima@bitbucket.org/m_lima/reactjs_repo.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "m_lima",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/m_lima/reactjs_repo#readme"
+}
